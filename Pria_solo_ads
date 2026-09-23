@@ -2,7 +2,7 @@
   "ads_enabled": true,
   "test_mode": true,
 
-  "banner_enabled": false,
+  "banner_enabled": true,
   "rewarded_enabled": true,
   "interstitial_enabled": true,
 
