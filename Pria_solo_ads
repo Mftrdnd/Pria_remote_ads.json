@@ -1,10 +1,10 @@
 {
-  "ads_enabled": true,
+  "ads_enabled": false,
   "test_mode": true,
 
-  "banner_enabled": true,
-  "rewarded_enabled": true,
-  "interstitial_enabled": true,
+  "banner_enabled": false,
+  "rewarded_enabled": false,
+  "interstitial_enabled": false,
 
   "test_banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
   "test_rewarded_ad_unit_id": "ca-app-pub-3940256099942544/5224354917",
