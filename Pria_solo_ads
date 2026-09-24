@@ -1,8 +1,8 @@
 {
-  "ads_enabled": false,
+  "ads_enabled": true,
   "test_mode": true,
 
-  "banner_enabled": false,
+  "banner_enabled": true,
   "rewarded_enabled": false,
   "interstitial_enabled": false,
 
