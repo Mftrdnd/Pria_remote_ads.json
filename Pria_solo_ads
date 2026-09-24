@@ -3,8 +3,8 @@
   "test_mode": true,
 
   "banner_enabled": true,
-  "rewarded_enabled": false,
-  "interstitial_enabled": false,
+  "rewarded_enabled": true,
+  "interstitial_enabled": true,
 
   "test_banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
   "test_rewarded_ad_unit_id": "ca-app-pub-3940256099942544/5224354917",
