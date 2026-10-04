@@ -1,14 +1,14 @@
 {
-  "ads_enabled": false,
-  "test_mode": true,
+  "ads_enabled": true,
+  "test_mode": false,
 
-  "banner_enabled": false,
-  "rewarded_enabled": false,
-  "interstitial_enabled": false,
+  "banner_enabled": true,
+  "rewarded_enabled": true,
+  "interstitial_enabled": true,
 
-  "test_banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
-  "test_rewarded_ad_unit_id": "ca-app-pub-3940256099942544/5224354917",
-  "test_interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
+  "test_banner_ad_unit_id": "ca-app-pub-3380498514301154~4981606112",
+  "test_rewarded_ad_unit_id": "ca-app-pub-3380498514301154/5818287475",
+  "test_interstitial_ad_unit_id": "ca-app-pub-3380498514301154/6561271934",
 
   "banner_ad_unit_id": "PRODUCTION_BANNER_ID",
   "rewarded_ad_unit_id": "PRODUCTION_REWARDED_ID",
